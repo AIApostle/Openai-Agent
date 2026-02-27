@@ -10,3 +10,5 @@ wheels/
 .venv
 # environment variables
 .env
+#just testing files
+Resources/
